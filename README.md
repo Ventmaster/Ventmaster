@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: making my GitHub Profile Interesting <br>👯 I’m looking to collaborate on:<br>🤝 I’m looking for help with: my Final Year Project<br>🌱 I’m currently learning: Backend Development<br>💬 Ask me about: Frontend Development, Data Structures, Algorithms<br>📫 How to reach me: eashan455@gmail.com<br>👨‍💻 All of my projects are available at: https://github.com/Ventmaster<br>📝 I regularly write articles on: (work in progress)<br>📄 Know about my experiences: <br>⚡ Fun fact: Small talk detected, error 404: Social Awkwardness Not Found!
+🔭 I’m currently working on: making my GitHub Profile Interesting <br>👯 I’m looking to collaborate on:<br>🤝 I’m looking for help with: code. <br>🌱 I’m currently learning: CLOUD! <br>💬 Ask me about: Development, Algorithms<br>📫 How to reach me: eashan455@gmail.com<br>👨‍💻 All of my projects are available at: <br>📝 I regularly write articles on: (work in progress)<br>📄 Know about my experiences: <br>⚡ Fun fact: Small talk detected, error 404: Social Awkwardness Not Found!
 
 
 ## 🌐 Socials:
